@@ -1,0 +1,18 @@
+Notes:
+	Use two separate dictionaries to store bid orders and ask orders
+	Keep active order count for both bids and asks - 4 max on each side
+	Etf threshold should be much higher than V_MAX
+		Maybe 60-80
+	Do not open new position until np.abs(net etf position) is less than desired threshold
+		Remaining volume for active orders:
+			Can either simultaneously reduce to 0
+				Best scenario - simply open new orders on both sides if this happens
+			Can both get stuck
+				Ok scenario - simply cancel both others and open new orders on both sides if this happens
+			One can reduce whereas the other gets stuck
+				Bad scenario - need to use threshold to figure out when net etf position is breached. Start by cancelling first in orders on opposite side of
+				net etf position and inserting new orders of FAK type - Ok to cross the spread, use etf prices
+	If cancelling too many orders --> not inserting orders that are good enough
+		Being able to open too many orders combined with this risks message limit breach
+	Cannot rely on FAK order types to dump position  because dependent on other bots to have open positions (e.g. example2 with 1 lot on each side --> will end up
+	stacking order requests rather than dumping position)

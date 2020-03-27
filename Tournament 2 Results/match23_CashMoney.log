@@ -1,0 +1,49 @@
+2020-03-18 14:52:22,756 [INFO   ] [APP] autotrader started with arguments={-c}
+2020-03-18 14:52:22,757 [INFO   ] [APP] configuration={"Execution":{"Host":"172.16.238.10","Port":12345},"Information":{"AllowBroadcast":true,"Interface":"0.0.0.0","ListenAddress":"172.16.238.255","Port":12346},"TeamName":"CashMoney","Secret":"ee1ff1d5a53747628860e189ee2cc73e"}
+2020-03-18 14:57:39,454 [WARNING] [TRADER] error with order 664: order rejected: in cross with an existing order
+2020-03-18 14:57:39,953 [WARNING] [TRADER] error with order 665: order rejected: in cross with an existing order
+2020-03-18 14:57:40,204 [WARNING] [TRADER] error with order 666: order rejected: in cross with an existing order
+2020-03-18 14:57:41,703 [WARNING] [TRADER] error with order 668: order rejected: in cross with an existing order
+2020-03-18 14:57:42,703 [WARNING] [TRADER] error with order 669: order rejected: in cross with an existing order
+2020-03-18 14:57:42,954 [WARNING] [TRADER] error with order 670: order rejected: in cross with an existing order
+2020-03-18 14:57:43,203 [WARNING] [TRADER] error with order 671: order rejected: in cross with an existing order
+2020-03-18 14:57:43,453 [WARNING] [TRADER] error with order 672: order rejected: in cross with an existing order
+2020-03-18 14:57:44,454 [WARNING] [TRADER] error with order 673: order rejected: in cross with an existing order
+2020-03-18 14:57:44,711 [WARNING] [TRADER] error with order 674: order rejected: in cross with an existing order
+2020-03-18 14:57:45,703 [WARNING] [TRADER] error with order 675: order rejected: in cross with an existing order
+2020-03-18 14:57:47,954 [WARNING] [TRADER] error with order 679: order rejected: in cross with an existing order
+2020-03-18 14:57:48,953 [WARNING] [TRADER] error with order 681: order rejected: in cross with an existing order
+2020-03-18 14:58:17,955 [WARNING] [TRADER] error with order 771: order rejected: in cross with an existing order
+2020-03-18 14:59:55,453 [WARNING] [TRADER] error with order 999: order rejected: in cross with an existing order
+2020-03-18 15:17:36,204 [WARNING] [TRADER] error with order 3345: order rejected: in cross with an existing order
+2020-03-18 15:17:36,704 [WARNING] [TRADER] error with order 3347: order rejected: in cross with an existing order
+2020-03-18 15:17:36,953 [WARNING] [TRADER] error with order 3348: order rejected: in cross with an existing order
+2020-03-18 15:17:37,203 [WARNING] [TRADER] error with order 3349: order rejected: in cross with an existing order
+2020-03-18 15:17:37,453 [WARNING] [TRADER] error with order 3350: order rejected: in cross with an existing order
+2020-03-18 15:17:37,702 [WARNING] [TRADER] error with order 3351: order rejected: in cross with an existing order
+2020-03-18 15:25:02,954 [WARNING] [TRADER] error with order 4314: order rejected: in cross with an existing order
+2020-03-18 15:25:03,455 [WARNING] [TRADER] error with order 4317: order rejected: in cross with an existing order
+2020-03-18 15:25:03,704 [WARNING] [TRADER] error with order 4318: order rejected: in cross with an existing order
+2020-03-18 15:25:03,953 [WARNING] [TRADER] error with order 4319: order rejected: in cross with an existing order
+2020-03-18 15:25:04,203 [WARNING] [TRADER] error with order 4320: order rejected: in cross with an existing order
+2020-03-18 15:25:04,453 [WARNING] [TRADER] error with order 4321: order rejected: in cross with an existing order
+2020-03-18 15:25:04,703 [WARNING] [TRADER] error with order 4322: order rejected: in cross with an existing order
+2020-03-18 15:25:04,953 [WARNING] [TRADER] error with order 4323: order rejected: in cross with an existing order
+2020-03-18 15:25:05,204 [WARNING] [TRADER] error with order 4324: order rejected: in cross with an existing order
+2020-03-18 15:25:05,453 [WARNING] [TRADER] error with order 4325: order rejected: in cross with an existing order
+2020-03-18 15:25:05,703 [WARNING] [TRADER] error with order 4326: order rejected: in cross with an existing order
+2020-03-18 15:25:05,953 [WARNING] [TRADER] error with order 4327: order rejected: in cross with an existing order
+2020-03-18 15:25:06,204 [WARNING] [TRADER] error with order 4328: order rejected: in cross with an existing order
+2020-03-18 15:25:06,454 [WARNING] [TRADER] error with order 4329: order rejected: in cross with an existing order
+2020-03-18 15:25:08,952 [WARNING] [TRADER] error with order 4332: order rejected: in cross with an existing order
+2020-03-18 15:25:09,703 [WARNING] [TRADER] error with order 4333: order rejected: in cross with an existing order
+2020-03-18 15:25:10,204 [WARNING] [TRADER] error with order 4334: order rejected: in cross with an existing order
+2020-03-18 15:25:10,953 [WARNING] [TRADER] error with order 4335: order rejected: in cross with an existing order
+2020-03-18 15:25:11,704 [WARNING] [TRADER] error with order 4336: order rejected: in cross with an existing order
+2020-03-18 15:25:34,203 [WARNING] [TRADER] error with order 4366: order rejected: in cross with an existing order
+2020-03-18 15:25:34,454 [WARNING] [TRADER] error with order 4368: order rejected: in cross with an existing order
+2020-03-18 15:25:35,952 [WARNING] [TRADER] error with order 4369: order rejected: in cross with an existing order
+2020-03-18 15:25:36,203 [WARNING] [TRADER] error with order 4370: order rejected: in cross with an existing order
+2020-03-18 15:28:40,204 [WARNING] [TRADER] error with order 4780: order rejected: in cross with an existing order
+2020-03-18 15:34:05,953 [INFO   ] [TRADER] lost connection on execution channel
+2020-03-18 15:34:05,953 [INFO   ] [APP] closing event loop

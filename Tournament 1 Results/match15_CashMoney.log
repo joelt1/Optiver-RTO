@@ -1,0 +1,127 @@
+2020-03-12 12:54:39,747 [INFO   ] [APP] autotrader started with arguments={-c}
+2020-03-12 12:54:39,747 [INFO   ] [APP] configuration={"Execution":{"Host":"172.16.238.10","Port":12345},"Information":{"AllowBroadcast":true,"Interface":"0.0.0.0","ListenAddress":"172.16.238.255","Port":12346},"TeamName":"CashMoney","Secret":"d2e2f5803de54c809a5c5672ebebb98c"}
+2020-03-12 12:55:00,828 [WARNING] [TRADER] Total trade volume: 147
+2020-03-12 12:55:02,329 [WARNING] [TRADER] Total trade volume: 198
+2020-03-12 12:55:02,329 [WARNING] [TRADER] Error with order 3: order rejected: active order volume limit breached
+2020-03-12 12:55:02,329 [WARNING] [TRADER] Error with order 4: order rejected: active order volume limit breached
+2020-03-12 12:55:02,578 [WARNING] [TRADER] Total trade volume: 199
+2020-03-12 12:55:02,578 [WARNING] [TRADER] Error with order 5: order rejected: active order volume limit breached
+2020-03-12 12:55:02,578 [WARNING] [TRADER] Error with order 6: order rejected: active order volume limit breached
+2020-03-12 12:55:02,828 [WARNING] [TRADER] Total trade volume: 199
+2020-03-12 12:55:02,828 [WARNING] [TRADER] Error with order 7: order rejected: active order volume limit breached
+2020-03-12 12:55:02,829 [WARNING] [TRADER] Error with order 8: order rejected: active order volume limit breached
+2020-03-12 12:55:03,078 [WARNING] [TRADER] Total trade volume: 197
+2020-03-12 12:55:03,079 [WARNING] [TRADER] Error with order 9: order rejected: active order volume limit breached
+2020-03-12 12:55:03,079 [WARNING] [TRADER] Error with order 10: order rejected: active order volume limit breached
+2020-03-12 12:55:03,328 [WARNING] [TRADER] Total trade volume: 197
+2020-03-12 12:55:03,329 [WARNING] [TRADER] Error with order 11: order rejected: active order volume limit breached
+2020-03-12 12:55:03,329 [WARNING] [TRADER] Error with order 12: order rejected: active order volume limit breached
+2020-03-12 12:55:03,578 [WARNING] [TRADER] Total trade volume: 168
+2020-03-12 12:55:03,578 [WARNING] [TRADER] Error with order 13: order rejected: active order volume limit breached
+2020-03-12 12:55:03,579 [WARNING] [TRADER] Error with order 14: order rejected: active order volume limit breached
+2020-03-12 12:55:03,828 [WARNING] [TRADER] Total trade volume: 185
+2020-03-12 12:55:03,829 [WARNING] [TRADER] Error with order 15: order rejected: active order volume limit breached
+2020-03-12 12:55:03,829 [WARNING] [TRADER] Error with order 16: order rejected: active order volume limit breached
+2020-03-12 12:55:04,078 [WARNING] [TRADER] Total trade volume: 189
+2020-03-12 12:55:04,079 [WARNING] [TRADER] Error with order 17: order rejected: active order volume limit breached
+2020-03-12 12:55:04,080 [WARNING] [TRADER] Error with order 18: order rejected: active order volume limit breached
+2020-03-12 12:55:04,328 [WARNING] [TRADER] Total trade volume: 143
+2020-03-12 12:55:04,329 [WARNING] [TRADER] Error with order 19: order rejected: active order volume limit breached
+2020-03-12 12:55:04,329 [WARNING] [TRADER] Error with order 20: order rejected: active order volume limit breached
+2020-03-12 12:55:04,578 [WARNING] [TRADER] Total trade volume: 173
+2020-03-12 12:55:04,581 [WARNING] [TRADER] Error with order 21: order rejected: active order volume limit breached
+2020-03-12 12:55:04,581 [WARNING] [TRADER] Error with order 22: order rejected: active order volume limit breached
+2020-03-12 12:55:04,828 [WARNING] [TRADER] Total trade volume: 179
+2020-03-12 12:55:04,828 [WARNING] [TRADER] Error with order 23: order rejected: active order volume limit breached
+2020-03-12 12:55:04,828 [WARNING] [TRADER] Error with order 24: order rejected: active order volume limit breached
+2020-03-12 12:55:05,077 [WARNING] [TRADER] Total trade volume: 199
+2020-03-12 12:55:05,079 [WARNING] [TRADER] Error with order 25: order rejected: active order volume limit breached
+2020-03-12 12:55:05,079 [WARNING] [TRADER] Error with order 26: order rejected: active order volume limit breached
+2020-03-12 12:55:05,328 [WARNING] [TRADER] Total trade volume: 196
+2020-03-12 12:55:05,328 [WARNING] [TRADER] Error with order 27: order rejected: active order volume limit breached
+2020-03-12 12:55:05,328 [WARNING] [TRADER] Error with order 28: order rejected: active order volume limit breached
+2020-03-12 12:55:05,579 [WARNING] [TRADER] Total trade volume: 77
+2020-03-12 12:55:05,580 [WARNING] [TRADER] Error with order 30: order rejected: active order volume limit breached
+2020-03-12 12:55:05,828 [WARNING] [TRADER] Total trade volume: 84
+2020-03-12 12:55:05,829 [WARNING] [TRADER] Error with order 31: order rejected: active order volume limit breached
+2020-03-12 12:55:05,829 [WARNING] [TRADER] Error with order 32: order rejected: active order volume limit breached
+2020-03-12 12:55:06,078 [WARNING] [TRADER] Total trade volume: 59
+2020-03-12 12:55:06,079 [WARNING] [TRADER] Error with order 33: order rejected: active order volume limit breached
+2020-03-12 12:55:06,079 [WARNING] [TRADER] Error with order 34: order rejected: active order volume limit breached
+2020-03-12 12:55:07,578 [WARNING] [TRADER] Total trade volume: 195
+2020-03-12 12:55:07,578 [WARNING] [TRADER] Error with order 35: order rejected: active order volume limit breached
+2020-03-12 12:55:07,578 [WARNING] [TRADER] Error with order 36: order rejected: active order volume limit breached
+2020-03-12 12:55:07,827 [WARNING] [TRADER] Total trade volume: 197
+2020-03-12 12:55:07,828 [WARNING] [TRADER] Error with order 37: order rejected: active order volume limit breached
+2020-03-12 12:55:07,828 [WARNING] [TRADER] Error with order 38: order rejected: active order volume limit breached
+2020-03-12 12:55:08,077 [WARNING] [TRADER] Total trade volume: 24
+2020-03-12 12:55:08,078 [WARNING] [TRADER] Error with order 40: order rejected: active order volume limit breached
+2020-03-12 12:55:08,328 [WARNING] [TRADER] Total trade volume: 25
+2020-03-12 12:55:08,329 [WARNING] [TRADER] Error with order 41: order rejected: active order volume limit breached
+2020-03-12 12:55:08,329 [WARNING] [TRADER] Error with order 42: order rejected: active order volume limit breached
+2020-03-12 12:55:08,577 [WARNING] [TRADER] Total trade volume: 45
+2020-03-12 12:55:08,577 [WARNING] [TRADER] Error with order 43: order rejected: active order volume limit breached
+2020-03-12 12:55:08,578 [WARNING] [TRADER] Error with order 44: order rejected: active order volume limit breached
+2020-03-12 12:55:08,828 [WARNING] [TRADER] Total trade volume: 190
+2020-03-12 12:55:08,828 [WARNING] [TRADER] Error with order 45: order rejected: active order volume limit breached
+2020-03-12 12:55:08,828 [WARNING] [TRADER] Error with order 46: order rejected: active order volume limit breached
+2020-03-12 12:55:09,078 [WARNING] [TRADER] Total trade volume: 190
+2020-03-12 12:55:09,078 [WARNING] [TRADER] Error with order 47: order rejected: active order volume limit breached
+2020-03-12 12:55:09,079 [WARNING] [TRADER] Error with order 48: order rejected: active order volume limit breached
+2020-03-12 12:55:09,328 [WARNING] [TRADER] Total trade volume: 190
+2020-03-12 12:55:09,328 [WARNING] [TRADER] Error with order 49: order rejected: active order volume limit breached
+2020-03-12 12:55:09,328 [WARNING] [TRADER] Error with order 50: order rejected: active order volume limit breached
+2020-03-12 12:55:09,578 [WARNING] [TRADER] Total trade volume: 64
+2020-03-12 12:55:09,578 [WARNING] [TRADER] Error with order 51: order rejected: active order volume limit breached
+2020-03-12 12:55:09,578 [WARNING] [TRADER] Error with order 52: order rejected: active order volume limit breached
+2020-03-12 12:55:09,828 [WARNING] [TRADER] Total trade volume: 190
+2020-03-12 12:55:09,828 [WARNING] [TRADER] Error with order 53: order rejected: active order volume limit breached
+2020-03-12 12:55:09,828 [WARNING] [TRADER] Error with order 54: order rejected: active order volume limit breached
+2020-03-12 12:55:10,077 [WARNING] [TRADER] Total trade volume: 190
+2020-03-12 12:55:10,078 [WARNING] [TRADER] Error with order 55: order rejected: active order volume limit breached
+2020-03-12 12:55:10,078 [WARNING] [TRADER] Error with order 56: order rejected: active order volume limit breached
+2020-03-12 12:55:10,328 [WARNING] [TRADER] Total trade volume: 190
+2020-03-12 12:55:10,328 [WARNING] [TRADER] Error with order 57: order rejected: active order volume limit breached
+2020-03-12 12:55:10,329 [WARNING] [TRADER] Error with order 58: order rejected: active order volume limit breached
+2020-03-12 12:55:10,578 [WARNING] [TRADER] Total trade volume: 197
+2020-03-12 12:55:10,578 [WARNING] [TRADER] Error with order 59: order rejected: active order volume limit breached
+2020-03-12 12:55:10,578 [WARNING] [TRADER] Error with order 60: order rejected: active order volume limit breached
+2020-03-12 12:55:10,828 [WARNING] [TRADER] Total trade volume: 200
+2020-03-12 12:55:10,828 [WARNING] [TRADER] Error with order 61: order rejected: active order volume limit breached
+2020-03-12 12:55:10,829 [WARNING] [TRADER] Error with order 62: order rejected: active order volume limit breached
+2020-03-12 12:55:11,080 [WARNING] [TRADER] Total trade volume: 197
+2020-03-12 12:55:11,080 [WARNING] [TRADER] Error with order 63: order rejected: active order volume limit breached
+2020-03-12 12:55:11,080 [WARNING] [TRADER] Error with order 64: order rejected: active order volume limit breached
+2020-03-12 12:55:11,328 [WARNING] [TRADER] Total trade volume: 197
+2020-03-12 12:55:11,329 [WARNING] [TRADER] Error with order 65: order rejected: active order volume limit breached
+2020-03-12 12:55:11,329 [WARNING] [TRADER] Error with order 66: order rejected: active order volume limit breached
+2020-03-12 12:55:11,578 [WARNING] [TRADER] Total trade volume: 197
+2020-03-12 12:55:11,578 [WARNING] [TRADER] Error with order 67: order rejected: active order volume limit breached
+2020-03-12 12:55:11,579 [WARNING] [TRADER] Error with order 68: order rejected: active order volume limit breached
+2020-03-12 12:55:11,827 [WARNING] [TRADER] Current ETF Position: -2
+2020-03-12 12:55:12,077 [WARNING] [TRADER] Current ETF Position: -4
+2020-03-12 12:55:12,077 [WARNING] [TRADER] Current ETF Position: -8
+2020-03-12 12:55:12,077 [WARNING] [TRADER] Current ETF Position: -18
+2020-03-12 12:55:12,327 [WARNING] [TRADER] Current ETF Position: -27
+2020-03-12 12:55:12,327 [WARNING] [TRADER] Warning - cornering market with ETF position: -27
+2020-03-12 12:55:12,328 [WARNING] [TRADER] Error with order 69: order rejected: invalid volume
+2020-03-12 12:55:12,577 [WARNING] [TRADER] Current ETF Position: -28
+2020-03-12 12:55:12,578 [WARNING] [TRADER] Current ETF Position: -37
+2020-03-12 12:55:13,077 [WARNING] [TRADER] Current ETF Position: -42
+2020-03-12 12:55:13,078 [WARNING] [TRADER] Current ETF Position: -51
+2020-03-12 12:55:13,327 [WARNING] [TRADER] Current ETF Position: -52
+2020-03-12 12:55:13,578 [WARNING] [TRADER] Current ETF Position: -61
+2020-03-12 12:55:16,828 [WARNING] [TRADER] Current ETF Position: -56
+2020-03-12 12:55:17,077 [WARNING] [TRADER] Current ETF Position: -55
+2020-03-12 12:55:18,580 [WARNING] [TRADER] Current ETF Position: -65
+2020-03-12 12:55:20,078 [WARNING] [TRADER] Current ETF Position: -67
+2020-03-12 12:55:21,327 [WARNING] [TRADER] Current ETF Position: -71
+2020-03-12 12:55:21,577 [WARNING] [TRADER] Current ETF Position: -72
+2020-03-12 12:55:21,578 [WARNING] [TRADER] Current ETF Position: -82
+2020-03-12 12:55:22,077 [WARNING] [TRADER] Current ETF Position: -88
+2020-03-12 12:55:22,078 [WARNING] [TRADER] Current ETF Position: -97
+2020-03-12 12:55:22,327 [WARNING] [TRADER] Current ETF Position: -99
+2020-03-12 12:55:22,327 [WARNING] [TRADER] Current ETF Position: -102
+2020-03-12 12:55:22,328 [WARNING] [TRADER] Error with order 29: position limit breached
+2020-03-12 12:55:22,328 [INFO   ] [TRADER] lost connection on execution channel
+2020-03-12 12:55:22,328 [INFO   ] [APP] closing event loop
