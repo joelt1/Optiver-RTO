@@ -5,21 +5,21 @@
 Joel Test Env/.ipynb_checkpoints/
 Joel Test Env/__pycache__/
 Joel Test Env/ready_trader_one/
-Joel Test Env/.json/
+Joel Test Env/*.json
 Joel Test Env/exchange.py
 Joel Test Env/run.py
 
 James Test Env/.ipynb_checkpoints/
 James Test Env/__pycache__/
 James Test Env/ready_trader_one/
-James Test Env/.json/
+James Test Env/*.json
 James Test Env/exchange.py
 James Test Env/run.py
 
 FINAL Test Env/.ipynb_checkpoints/
 FINAL Test Env/__pycache__/
 FINAL Test Env/ready_trader_one/
-FINAL Test Env/.json/
+FINAL Test Env/*.json
 FINAL Test Env/exchange.py
 FINAL Test Env/run.py
 
